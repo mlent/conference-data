@@ -182,5 +182,14 @@
     "country": "U.K.",
     "twitter": "@frontendne",
     "cfpUrl": "https://2019.frontendne.co.uk/call-for-speakers.html"
+  },
+  {
+    "name": "Frontend Developer Love",
+    "url": "www.frontenddeveloperlove.com",
+    "startDate": "2019-02-13",
+    "endDate": "2019-02-15",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@frontend_love"
   }
 ]
